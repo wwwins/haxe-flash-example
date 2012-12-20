@@ -1,0 +1,3 @@
+// starling-extension-particle-system patch file
+-starling.extensions.ColorArgb.fromArgb
+-starling.extensions.ColorArgb.fromRgb
