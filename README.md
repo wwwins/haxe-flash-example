@@ -1,4 +1,4 @@
 haxe-flash-example
 ==================
 
-haxe-flash-example
+Haxe and Flash example.
